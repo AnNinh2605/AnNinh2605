@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me: 
+### Hi I'm Ninh
 As a newcomer to the field of information technology, I am eager to enhance my skills and knowledge to become a web developer. I aspire to apply the theoretical knowledge I have acquired to practical projects. Besides that, I usually spend time exploring something new in technology to apply it to work and daily life.
 
 ## 🌐 Socials: 
